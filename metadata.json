@@ -1,0 +1,10 @@
+{
+  "name": "Oman Weather & GPS Live",
+  "description": "Real-time location tracking and live weather intelligence across the Sultanate of Oman powered by Google Maps Platform.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
